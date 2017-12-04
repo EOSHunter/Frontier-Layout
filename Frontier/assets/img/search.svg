@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>search</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-/-Mast" transform="translate(-1072.000000, -74.000000)" fill="#999999">
+            <g id="Group-2">
+                <g transform="translate(1016.000000, 62.000000)">
+                    <g id="Group-6" transform="translate(56.000000, 10.000000)">
+                        <path d="M9,7.5 C9,9.4296875 7.4296875,11 5.5,11 C3.5703125,11 2,9.4296875 2,7.5 C2,5.5703125 3.5703125,4 5.5,4 C7.4296875,4 9,5.5703125 9,7.5 Z M13,14 C13,13.734375 12.890625,13.4765625 12.7109375,13.296875 L10.03125,10.6171875 C10.6640625,9.703125 11,8.609375 11,7.5 C11,4.4609375 8.5390625,2 5.5,2 C2.4609375,2 0,4.4609375 0,7.5 C0,10.5390625 2.4609375,13 5.5,13 C6.609375,13 7.703125,12.6640625 8.6171875,12.03125 L11.296875,14.703125 C11.4765625,14.890625 11.734375,15 12,15 C12.546875,15 13,14.546875 13,14 Z" id="search"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

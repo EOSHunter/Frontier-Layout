@@ -1,0 +1,166 @@
+.navigation {
+    margin-bottom: 40px;
+    
+    &__list {
+        float: left;
+
+        li {
+            float: left;
+            list-style: none;
+        }
+
+    }
+
+    &__list--options {
+        padding-left: 0;
+
+        li {
+            margin-right: 25px;
+            float: left;    
+            
+            a {
+                text-decoration: none;
+                color: #666;
+            }
+
+        }
+
+    }
+
+    &__list--user-options {
+        float: right;
+        padding: 0;
+        
+        li {
+            margin-left: 20px;
+            float: left;
+
+            a {
+                text-decoration: none;
+                color: #666;
+            }
+
+            img {
+                margin: 0 10px;
+            }
+
+        }
+
+    }
+
+    &__list--navigation {
+        float: left;
+        margin: 0;
+        padding: 0;
+
+        li {
+            margin-right: 75px;
+            float: left;
+
+            a {
+                text-decoration: none;
+                color: black;
+            }
+
+            img {
+                position: relative;
+                right: -10px;
+                top: -5px;
+            }
+        }
+    }
+
+    &__list--plans {
+        float: left;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        justify-content: space-between;
+
+        li {
+            list-style: none;
+
+            a {
+                text-decoration: none;
+                color: black; 
+            }
+
+            img {
+                margin-right: 15px;
+
+            }
+
+        }
+
+    }
+
+    &__search {
+        float: right;
+        padding: 7.5px 20px;
+        text-align: center;
+        width: 270px;
+        border-radius: 4px;
+        border: solid 1px #D2D2D2;
+
+        &:focus + .top-nav__label {
+            display: none;
+        }
+
+    }
+
+    &__submit {
+        float: right;
+        border: solid 1px #D2D2D2;
+        background-color: #E9E9E9;
+        padding: 5.5px 10px;
+        border-radius: 0 4px 4px 0;
+    }
+
+    &__call {
+        float: right;
+        margin: 0;
+        padding: 7.5px 0;
+
+        img {
+            margin-left: 20px;
+        }
+
+        &-number {
+            margin-left: 10px;
+            font-size: 26px;
+            line-height: 1;
+        }
+
+    }
+
+    &__third--top {
+        padding-top: 10px;
+        padding-bottom: 22px;
+    }
+
+    &__third--middle {
+        padding-bottom: 25px;
+
+        .small-only {
+            text-align: center;
+
+            span {
+                font-size: 13px;
+            }
+            
+            img {
+                margin-right: 5px;
+            }
+        }
+    }
+
+    &__third--bottom {
+        padding: 18px 0;
+    }
+
+    hr {
+        color: #979797;
+        margin: 0;
+    }
+}

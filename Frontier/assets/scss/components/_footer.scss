@@ -1,0 +1,30 @@
+.footer {
+    background-color: $red;
+    color: #F7F7F7;
+    font-size: 20px;
+    line-height: 22px;
+    padding: 40px 0;
+
+    p {
+        margin: 0;
+    }
+
+    &__left {
+        text-align: left;      
+    }
+
+    &__right {
+        text-align: right;
+
+        img {
+            margin: 0 10px;
+        }
+
+        span {
+            font-size: 26px;
+            line-height: 1;
+        }
+
+    }
+
+}

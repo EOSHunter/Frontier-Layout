@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / Gray / Close</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UI-/-Modal" transform="translate(-520.000000, -20.000000)" fill-rule="nonzero" fill="#D2D2D2">
+            <g id="Icon-/-Gray-/-Close">
+                <g transform="translate(520.000000, 20.000000)">
+                    <path d="M15,30 C6.71572875,30 0,23.2842712 0,15 C0,6.71572875 6.71572875,0 15,0 C23.2842712,0 30,6.71572875 30,15 C30,23.2842712 23.2842712,30 15,30 Z M15,29 C22.7319865,29 29,22.7319865 29,15 C29,7.2680135 22.7319865,1 15,1 C7.2680135,1 1,7.2680135 1,15 C1,22.7319865 7.2680135,29 15,29 Z M10,20.1875 L10,20.15625 L14.015625,14.4765625 L10.21875,9.0546875 L10.21875,9 L11.8203125,9 L14.90625,13.53125 L18.03125,9 L19.609375,9 L19.609375,9.0546875 L15.8046875,14.4765625 L19.8203125,20.15625 L19.8203125,20.1875 L18.21875,20.1875 L14.90625,15.46875 L11.59375,20.1875 L10,20.1875 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

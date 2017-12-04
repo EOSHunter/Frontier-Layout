@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="69px" viewBox="0 0 80 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / Yellow / Heart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CXIB-5436-Legacy-Desktop-Bundles" transform="translate(-261.000000, -1682.000000)" fill="#FAC455">
+            <g id="Icon-/-Yellow-/-Heart" transform="translate(261.000000, 1682.000000)">
+                <path d="M40.0000477,68.7142925 C40.7143342,68.7142925 41.4286208,68.4464351 41.9643357,67.9107201 L69.7768689,41.1249739 C70.1786551,40.7231877 80.0000954,31.7499627 80.0000954,21.0356643 C80.0000954,7.95529152 72.0090144,0.142782211 58.6607842,0.142782211 C50.8482749,0.142782211 43.5268376,6.30350384 40.0000477,9.78565085 C36.4732578,6.30350384 29.1518205,0.142782211 21.3393112,0.142782211 C7.99108095,0.142782211 0,7.95529152 0,21.0356643 C0,31.7499627 9.82144028,40.7231877 10.1785836,41.0356881 L38.0357596,67.9107201 C38.5714746,68.4464351 39.2857611,68.7142925 40.0000477,68.7142925 Z" id="yellow-heart"></path>
+            </g>
+        </g>
+    </g>
+</svg>

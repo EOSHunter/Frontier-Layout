@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="16px" viewBox="0 0 11 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Pin</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-/-Mast" transform="translate(-896.000000, -24.000000)" fill="#DA262D">
+            <g id="Group-4">
+                <g transform="translate(896.000000, 24.000000)">
+                    <path d="M11,5.33333333 C11,5.96875 10.9248047,6.625 10.6455078,7.19791667 L6.73535156,15.2604167 C6.50976562,15.71875 6.015625,16 5.5,16 C4.984375,16 4.49023438,15.71875 4.27539062,15.2604167 L0.354492188,7.19791667 C0.0751953125,6.625 0,5.96875 0,5.33333333 C0,2.38541667 2.45996094,0 5.5,0 C8.54003906,0 11,2.38541667 11,5.33333333 Z M8.25,5.33333333 C8.25,3.86458333 7.01464844,2.66666667 5.5,2.66666667 C3.98535156,2.66666667 2.75,3.86458333 2.75,5.33333333 C2.75,6.80208333 3.98535156,8 5.5,8 C7.01464844,8 8.25,6.80208333 8.25,5.33333333 Z" id="Pin"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
